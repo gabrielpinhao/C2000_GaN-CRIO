@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO\" -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/device\" -I\"C:/ti/c2000/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/CPU1_RAM/syscfg\"",
+      "file"      : "C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO\" -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/device\" -I\"C:/ti/c2000/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO\" -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/device\" -I\"C:/ti/c2000/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/nitee/workspace_ccstheia/C2000_GaN-CRIO/empty_driverlib_main.c"
+   }
+]
